@@ -2,6 +2,5 @@
     "python.analysis.autoImportCompletions": false,
     "python.analysis.autoSearchPaths": false,
     "python.formatting.provider": "yapf",
-    "python.languageServer": "Pylance",
     "python.linting.enabled": false
 }
