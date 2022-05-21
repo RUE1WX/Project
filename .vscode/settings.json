@@ -3,5 +3,6 @@
     "python.analysis.autoSearchPaths": false,
     "python.formatting.provider": "yapf",
     "python.languageServer": "Pylance",
-    "python.linting.enabled": false
+    "python.linting.enabled": false,
+    "kite.showWelcomeNotificationOnStartup": false
 }
